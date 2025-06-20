@@ -7,7 +7,7 @@ st.set_page_config(page_title="CopyShot - AI Ad Copy Generator", layout="centere
 # --- HEADER ---
 st.image("app_icon.png", width=150)
 st.markdown("### *AI-Powered Ad Copy by Drew Is*")
-st.caption("From Drew Is: Tools to UpLevel the human experience.")
+st.caption("From Drew Is: Tools to UpLevel the human experience. [v2]")
 
 # --- API KEY HANDLING ---
 if "OPENAI_API_KEY" in st.secrets:
